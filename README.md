@@ -55,6 +55,6 @@ This project uses the CodeLlama 7B Instruct-GGUF model. To run the evaluation sc
 3.  *Place the model file:*
     Create a new folder named models inside this project's directory and place the downloaded [Codellama-7B Instruct GGUF](c:/Users/hp/Downloads/codellama-7b-instruct.Q4_K_M.gguf) file inside it.
 4.  *Run the script:*
-    Execute the evaluation.py script to see the model's output.
+    Execute the (evaluation.py) script to see the model's output.
 
     
