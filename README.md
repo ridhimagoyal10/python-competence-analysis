@@ -52,9 +52,10 @@ This project uses the CodeLlama 7B Instruct-GGUF model. To run the evaluation sc
     pip install ctransformers
 2.   *Download the model file:*
     Download the model file (https://huggingface.co/TheBloke/CodeLlama-7B-Instruct-GGUF) from a trusted source (https://huggingface.co/-TheBloke's Hugging Face repository).
-3.  *Place the model file:*
+    The model file is not included due to size constraints and the instructions are local setup.
+4.  *Place the model file:*
     Create a new folder named models inside this project's directory and place the downloaded [Codellama-7B Instruct GGUF](c:/Users/hp/Downloads/codellama-7b-instruct.Q4_K_M.gguf) file inside it.
-4.  *Run the script:*
+5.  *Run the script:*
     Execute the (evaluation.py) script to see the model's output.
 
     
